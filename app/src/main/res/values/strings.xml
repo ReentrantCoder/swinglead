@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwingLead</string>
+    <string name="intro">This is my attempt at making the <b>SwingLead</b> app.
+        \n<b>Press "Next"</b> after entering BPM and moves.</string>
+    <string name="next">Next</string>
+
+</resources>
