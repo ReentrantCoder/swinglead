@@ -5,6 +5,8 @@ Android SwingLead Sample
 Introduction
 ------------
 
+At the moment, this 99% auto-generated template. My only original src is the thread + forloop in MainActivity.java.
+
 This sample shows the use of the [android.widget.TextSwitcher][1] View with animations. A
 TextSwitcher is a special type of [android.widget.ViewSwitcher][2] that animates
 the current text out and new text in when
